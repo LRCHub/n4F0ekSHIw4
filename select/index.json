@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "BE ME (Monster Siren Records)",
+  "base_artist": "左乙",
+  "createdAt": "2026-02-21T07:29:03.224345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BE ME - Monster Siren Records",
+      "artist": "左乙",
+      "has_synced": true,
+      "path": "select/01_BE_ME_-_Monster_Siren_Records_左乙.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BE ME (Monster Siren Records)",
+      "artist": "左乙",
+      "has_synced": true,
+      "path": "select/02_BE_ME_(Monster_Siren_Records)_左乙.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BE ME - Monster Siren Records",
+      "artist": "左乙",
+      "has_synced": false,
+      "path": "select/pl_01_BE_ME_-_Monster_Siren_Records_左乙.txt"
+    }
+  ]
+}
